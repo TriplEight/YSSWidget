@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="com.example.RSSWidgetY.ConfigureActivity"
+    android:initialLayout="@layout/rss_widget"
+    android:minHeight="100dp"
+    android:minWidth="240dp"
+    android:previewImage="@drawable/preview"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="86400000">
+
+</appwidget-provider><!-- 86400000 is the value of AlarmManager.INTERVAL_DAY - or once per day.
+    Updates requested with updatePeriodMillis will not be delivered more than once every 30 minutes.-->
+

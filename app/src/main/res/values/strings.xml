@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RSS Widget Y</string>
+    <string name="title">Configure RSS Widget</string>
+    <string name="rss_edit_hint">Enter RSS Feed URL:</string>
+    <string name="error_in_url">Invalid URL</string>
+    <string name="error">Loading error</string>
+</resources>
