@@ -13,7 +13,7 @@ It does:
 -    widget shows message title and its text
 -    user can navigate between messages using buttons
 -    update every minute even if device is sleeping
-      (ART obviously does not like that)
+-    translated to Russian
     
     
 It does not (yet):
